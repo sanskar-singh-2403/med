@@ -1,8 +1,1 @@
-```
-npm install
-npm run dev
-```
-
-```
-npm run deploy
-```
+WORKER IS [HERE](https://backend.sanskarsinghty1234.workers.dev/)
